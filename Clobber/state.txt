@@ -1,0 +1,4 @@
+_ W _ W
+W _ W B
+B W _ W
+W B W _
